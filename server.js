@@ -44,10 +44,10 @@ var htmltemplate=`
                 Article One
             </h3>
             <div>
-            {date}
+            ${date}
             </div>
             
-        
+        ${content}
         
            
         </div>
